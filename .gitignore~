@@ -3,7 +3,8 @@
 [Bb]in/
 [Oo]bj/
 ![Bb]in/Designs/*
-.vs
+.vs/
+ContactSystem/.vs/
 *.suo
 *.user
 

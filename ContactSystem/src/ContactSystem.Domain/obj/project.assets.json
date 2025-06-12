@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ContactSystem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ContactSystem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContactSystem.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ContactSystem.Core/1.0.0": {
+      "type": "project",
+      "path": "../ContactSystem.Core/ContactSystem.Core.csproj",
+      "msbuildProject": "../ContactSystem.Core/ContactSystem.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ContactSystem.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kamol\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj": {
+              "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

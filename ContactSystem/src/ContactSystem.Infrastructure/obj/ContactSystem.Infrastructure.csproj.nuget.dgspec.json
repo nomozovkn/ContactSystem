@@ -4,14 +4,116 @@
     "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\ContactSystem.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\ContactSystem.Infrastructure.csproj": {
+    "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\ContactSystem.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\ContactSystem.Infrastructure.csproj",
-        "projectName": "ContactSystem.Infrastructure",
-        "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\ContactSystem.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\ContactSystem.Application.csproj",
+        "projectName": "ContactSystem.Application",
+        "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\ContactSystem.Application.csproj",
         "packagesPath": "C:\\Users\\kamol\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\obj\\",
+        "outputPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kamol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj": {
+                "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj"
+              },
+              "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Domain\\ContactSystem.Domain.csproj": {
+                "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Domain\\ContactSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.12.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj",
+        "projectName": "ContactSystem.Core",
+        "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj",
+        "packagesPath": "C:\\Users\\kamol\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +151,169 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Domain\\ContactSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Domain\\ContactSystem.Domain.csproj",
+        "projectName": "ContactSystem.Domain",
+        "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Domain\\ContactSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\kamol\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kamol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj": {
+                "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\ContactSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\ContactSystem.Infrastructure.csproj",
+        "projectName": "ContactSystem.Infrastructure",
+        "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\ContactSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\kamol\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kamol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\ContactSystem.Application.csproj": {
+                "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\ContactSystem.Application.csproj"
+              },
+              "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj": {
+                "projectPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Core\\ContactSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

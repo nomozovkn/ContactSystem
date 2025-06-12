@@ -1,0 +1,12 @@
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\bin\Debug\net8.0\ContactSystem.Core.deps.json
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\bin\Debug\net8.0\ContactSystem.Core.dll
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\bin\Debug\net8.0\ContactSystem.Core.pdb
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\obj\Debug\net8.0\ContactSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\obj\Debug\net8.0\ContactSystem.Core.AssemblyInfoInputs.cache
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\obj\Debug\net8.0\ContactSystem.Core.AssemblyInfo.cs
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\obj\Debug\net8.0\ContactSystem.Core.csproj.CoreCompileInputs.cache
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\obj\Debug\net8.0\ContactSystem.Core.sourcelink.json
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\obj\Debug\net8.0\ContactSystem.Core.dll
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\obj\Debug\net8.0\refint\ContactSystem.Core.dll
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\obj\Debug\net8.0\ContactSystem.Core.pdb
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Core\obj\Debug\net8.0\ref\ContactSystem.Core.dll

@@ -1,0 +1,16 @@
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\bin\Debug\net8.0\ContactSystem.Domain.deps.json
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\bin\Debug\net8.0\ContactSystem.Domain.dll
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\bin\Debug\net8.0\ContactSystem.Domain.pdb
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ContactSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ContactSystem.Domain.AssemblyInfoInputs.cache
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ContactSystem.Domain.AssemblyInfo.cs
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ContactSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ContactSystem.Domain.sourcelink.json
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ContactSystem.Domain.dll
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\refint\ContactSystem.Domain.dll
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ContactSystem.Domain.pdb
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ref\ContactSystem.Domain.dll
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\bin\Debug\net8.0\ContactSystem.Core.dll
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\bin\Debug\net8.0\ContactSystem.Core.pdb
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ContactSystem.Domain.csproj.AssemblyReference.cache
+C:\Projects\MyProject\ContactSystem\ContactSystem\src\ContactSystem.Domain\obj\Debug\net8.0\ContactS.4224E24F.Up2Date

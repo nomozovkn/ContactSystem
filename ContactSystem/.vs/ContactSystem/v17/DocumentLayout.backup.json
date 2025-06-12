@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2797D42-758F-44F9-9C5D-C361F1230436}|src\\ContactSystem.Api\\ContactSystem.Api.csproj|c:\\projects\\myproject\\contactsystem\\contactsystem\\src\\contactsystem.api\\endpoints\\adminendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2797D42-758F-44F9-9C5D-C361F1230436}|src\\ContactSystem.Api\\ContactSystem.Api.csproj|solutionrelative:src\\contactsystem.api\\endpoints\\adminendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CFDACB-6D5E-4BFA-9553-4CED9809CE06}|src\\ContactSystem.Application\\ContactSystem.Application.csproj|c:\\projects\\myproject\\contactsystem\\contactsystem\\src\\contactsystem.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CFDACB-6D5E-4BFA-9553-4CED9809CE06}|src\\ContactSystem.Application\\ContactSystem.Application.csproj|solutionrelative:src\\contactsystem.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE133743-5821-48F5-A140-211E617C3762}|src\\ContactSystem.Infrastructure\\ContactSystem.Infrastructure.csproj|c:\\projects\\myproject\\contactsystem\\contactsystem\\src\\contactsystem.infrastructure\\persistance\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE133743-5821-48F5-A140-211E617C3762}|src\\ContactSystem.Infrastructure\\ContactSystem.Infrastructure.csproj|solutionrelative:src\\contactsystem.infrastructure\\persistance\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CFDACB-6D5E-4BFA-9553-4CED9809CE06}|src\\ContactSystem.Application\\ContactSystem.Application.csproj|c:\\projects\\myproject\\contactsystem\\contactsystem\\src\\contactsystem.application\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CFDACB-6D5E-4BFA-9553-4CED9809CE06}|src\\ContactSystem.Application\\ContactSystem.Application.csproj|solutionrelative:src\\contactsystem.application\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CFDACB-6D5E-4BFA-9553-4CED9809CE06}|src\\ContactSystem.Application\\ContactSystem.Application.csproj|c:\\projects\\myproject\\contactsystem\\contactsystem\\src\\contactsystem.application\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CFDACB-6D5E-4BFA-9553-4CED9809CE06}|src\\ContactSystem.Application\\ContactSystem.Application.csproj|solutionrelative:src\\contactsystem.application\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2797D42-758F-44F9-9C5D-C361F1230436}|src\\ContactSystem.Api\\ContactSystem.Api.csproj|c:\\projects\\myproject\\contactsystem\\contactsystem\\src\\contactsystem.api\\endpoints\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2797D42-758F-44F9-9C5D-C361F1230436}|src\\ContactSystem.Api\\ContactSystem.Api.csproj|solutionrelative:src\\contactsystem.api\\endpoints\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2797D42-758F-44F9-9C5D-C361F1230436}|src\\ContactSystem.Api\\ContactSystem.Api.csproj|c:\\projects\\myproject\\contactsystem\\contactsystem\\src\\contactsystem.api\\endpoints\\roleendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2797D42-758F-44F9-9C5D-C361F1230436}|src\\ContactSystem.Api\\ContactSystem.Api.csproj|solutionrelative:src\\contactsystem.api\\endpoints\\roleendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2797D42-758F-44F9-9C5D-C361F1230436}|src\\ContactSystem.Api\\ContactSystem.Api.csproj|c:\\projects\\myproject\\contactsystem\\contactsystem\\src\\contactsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2797D42-758F-44F9-9C5D-C361F1230436}|src\\ContactSystem.Api\\ContactSystem.Api.csproj|solutionrelative:src\\contactsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\Persistance\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\ContactSystem.Infrastructure\\Persistance\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Infrastructure\\Persistance\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\ContactSystem.Infrastructure\\Persistance\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:36:08.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\ContactSystem.Application\\Services\\UserService\\UserService.cs",
+              "ToolTip": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "src\\ContactSystem.Application\\Services\\UserService\\UserService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAASwFkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:31:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\Services\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\ContactSystem.Application\\Services\\UserService\\IUserService.cs",
+              "ToolTip": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\Services\\UserService\\IUserService.cs",
+              "RelativeToolTip": "src\\ContactSystem.Application\\Services\\UserService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:30:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\ContactSystem.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Application\\Interfaces\\IUserRepository.cs*",
+              "RelativeToolTip": "src\\ContactSystem.Application\\Interfaces\\IUserRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:29:48.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminEndpoints.cs",
+              "DocumentMoniker": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Api\\Endpoints\\AdminEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\ContactSystem.Api\\Endpoints\\AdminEndpoints.cs",
+              "ToolTip": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Api\\Endpoints\\AdminEndpoints.cs",
+              "RelativeToolTip": "src\\ContactSystem.Api\\Endpoints\\AdminEndpoints.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:22:21.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ContactSystem.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Api\\Program.cs",
+              "RelativeToolTip": "src\\ContactSystem.Api\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:57:06.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleEndpoints.cs",
+              "DocumentMoniker": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Api\\Endpoints\\RoleEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\ContactSystem.Api\\Endpoints\\RoleEndpoints.cs",
+              "ToolTip": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Api\\Endpoints\\RoleEndpoints.cs",
+              "RelativeToolTip": "src\\ContactSystem.Api\\Endpoints\\RoleEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:49:56.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthEndpoints.cs",
+              "DocumentMoniker": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Api\\Endpoints\\AuthEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\ContactSystem.Api\\Endpoints\\AuthEndpoints.cs",
+              "ToolTip": "C:\\Projects\\MyProject\\ContactSystem\\ContactSystem\\src\\ContactSystem.Api\\Endpoints\\AuthEndpoints.cs",
+              "RelativeToolTip": "src\\ContactSystem.Api\\Endpoints\\AuthEndpoints.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:04:38.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
