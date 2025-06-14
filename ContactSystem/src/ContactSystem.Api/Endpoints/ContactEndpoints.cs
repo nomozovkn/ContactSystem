@@ -8,7 +8,7 @@ public static class ContactEndpoints
     public static void MapContactEndpoints(this WebApplication app)
     {
         var contactGroup = app.MapGroup("/contacts")
-        //.RequireAuthorization()
+        .RequireAuthorization()
         .WithTags("Contacts");
         contactGroup.MapPost("/post",
             async (ContactCreateDto contactDto, IContactService contactService) =>

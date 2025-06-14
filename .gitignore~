@@ -4,6 +4,8 @@
 [Oo]bj/
 ![Bb]in/Designs/*
 .vs/
+bin/
+obj/
 ContactSystem/.vs/
 *.suo
 *.user
